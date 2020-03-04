@@ -8,6 +8,6 @@ This is also my first time webscraping (my only knowledge of HTML is when MySpac
 Using Python libraries to scrape and clean data from the Texas Department of Criminal Justice's website.
 Source : https://www.tdcj.texas.gov/index.html
 
-2 Dataframes:
+2 Tables:
 1. Offenders Currently on Death Row
 2. Executed Offenders
