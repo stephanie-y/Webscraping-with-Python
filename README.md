@@ -1,4 +1,4 @@
-# Webscraping-with-Python
+# Webscraping-Death-Row
 Webscraping Texas' Death Row Information
 
 Being from New York, I was surprised that capital punishment was only abolished in 21 states plus the District of Columbia and Puerto Rico.
